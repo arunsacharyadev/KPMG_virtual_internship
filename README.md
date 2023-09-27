@@ -12,7 +12,7 @@ solution available [here](.\Task_2(Data_Insights)\KPMG_Task_2.pptx)
 **solution:** develop a dashboard that we can present to the client. Display your data summary and results of the analysis in a dashboard (see tools/references for assistance). Specifically, presentation should specify who Sprocket Central Pty Ltd’s marketing team should be targeting out of the new 1000 customer list as well as the broader market segment to reach out to.
 solution available [here](https://public.tableau.com/views/KPMGTask3_16928490325340/KPMGTask3?:language=en-GB&:display_count=n&:origin=viz_share_link)
 
-![dashboard image](.\Task_3(Data_Insights_and_Presentation)\KPMG_Task_3.png)
+![dashboard image](./Task_3(Data_Insights_and_Presentation)/KPMG_Task_3.png)
 
 
 ## Certification
